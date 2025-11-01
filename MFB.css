@@ -1,0 +1,38 @@
+
+body {
+    font-family: 'Times New Roman';    
+}
+
+.container {
+    width: 80%;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.joyeux-anniversaire {
+    font-size: 48px;
+    font-weight: bold;
+    color: #ff69b4;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+p{
+    font-size: 20px;
+}
+.photos1{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin:0px;
+}
+.photos2{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+     margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
